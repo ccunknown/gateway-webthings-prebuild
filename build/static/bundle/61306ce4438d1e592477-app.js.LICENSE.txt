@@ -1,0 +1,39 @@
+/*
+ @license
+ Copyright 2006 The Closure Library Authors
+ SPDX-License-Identifier: Apache-2.0
+*/
+
+/*
+ @license
+ Copyright 2008 The Closure Library Authors
+ SPDX-License-Identifier: Apache-2.0
+*/
+
+/*
+ @license
+ EME Encryption Scheme Polyfill
+ Copyright 2019 Google LLC
+ SPDX-License-Identifier: Apache-2.0
+*/
+
+/*
+ @license
+ Shaka Player
+ Copyright 2016 Google LLC
+ SPDX-License-Identifier: Apache-2.0
+*/
+
+/*! mobile-drag-drop 2.3.0-rc.1 | Copyright (c) 2019 Tim Ruffles | MIT License */
+
+/**
+@license @nocompile
+Copyright (c) 2018 The Polymer Project Authors. All rights reserved.
+This code may only be used under the BSD style license found at http://polymer.github.io/LICENSE.txt
+The complete set of authors may be found at http://polymer.github.io/AUTHORS.txt
+The complete set of contributors may be found at http://polymer.github.io/CONTRIBUTORS.txt
+Code distributed by Google as part of the polymer project is also
+subject to an additional IP rights grant found at http://polymer.github.io/PATENTS.txt
+*/
+
+/** @license URI.js v4.4.1 (c) 2011 Gary Court. License: http://github.com/garycourt/uri-js */

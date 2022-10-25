@@ -8,7 +8,7 @@
 tmp/
 
 # Build artifacts
-/build
+#/build
 #node_modules/
 npm-debug.log
 
