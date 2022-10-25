@@ -49,10 +49,12 @@ module.exports = {
     enabled: true,
 
     // Endpoint of the PageKite server
-    registration_endpoint: 'https://api.webthings.io:8443',
+    //registration_endpoint: 'https://api.webthings.io:8443',
+    registration_endpoint: 'https://api.wot.meca.in.th',
 
     // Base domain
-    domain: 'webthings.io',
+    //domain: 'webthings.io',
+    domain: 'gw.wot.meca.in.th',
 
     // Command to run PageKite
     pagekite_cmd: path.normalize(path.join(process.cwd(), 'pagekite.py')),
@@ -61,12 +63,13 @@ module.exports = {
     port: 443,
 
     // Email address to use during certificate generation
-    certemail: 'noreply@webthings.io',
+    //certemail: 'noreply@webthings.io',
+    certemail: 'gigo.zen@gmail.com',
   },
 
   updates: {
     // URL of update server
-    url: 'https://api.webthings.io:8443/releases',
+    //url: 'https://api.webthings.io:8443/releases',
 
     // Whether or not to allow prerelease updates
     allowPrerelease: false,
